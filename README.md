@@ -1,11 +1,11 @@
-# {John Maina's Portfolio}
-#### {Independent Project}, {27/2/22}
-#### By **{John Maina}**
+# John Maina's Portfolio
+#### Independent Project, 27/2/22
+#### By **John Maina**
 ## Description
-{The project is to test basic web development skills that have been learnt during the first week's course }
+The project is to test basic web development skills that have been learnt during the first week's course
 ## Live Website
-{https://johnmaina.com }
+https://johnmaina.com
 ## Technologies Used
-{HTML | CSS }
+HTML | CSS 
 ### License
-Copyright (c) {2022} **{John Maina}**
+Copyright (c) {2022} **John Maina**
