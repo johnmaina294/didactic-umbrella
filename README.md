@@ -8,4 +8,4 @@ https://johnmaina.com
 ## Technologies Used
 HTML | CSS 
 ### License
-Copyright (c) {2022} **John Maina**
+Copyright (c) 2022 **John Maina**
